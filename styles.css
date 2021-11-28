@@ -1,0 +1,27 @@
+body {
+    background-color: #89cff0;
+}
+
+p {
+    color: #74b72e;
+    font-size: 20px;
+}
+
+h4 {
+    font-size: 24px;
+}
+
+h1 {
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.alert-text {
+    text-align: center;
+}
+
+img 
+    {
+    height: auto;
+    width: 400px;
+}
