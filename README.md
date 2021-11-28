@@ -1,10 +1,30 @@
-1. The mashed potato
-    a. take a potato
-    b. mash it
-    c. enjoy
+Ive learned basic HTML such as
 
-2. The Scared Squirrel
-    a. find a squirrel
-    b. catch it
-    c. cook it alive in boiling water
-    d. eat and enjoy
+<h1-6> - headings
+<p> - paragraph
+<img src="src"> - adding an image (use ../ to go to root)
+<a href="link">random writing</a> - add a hyper link
+<strong> - bold 
+<em> italic
+
+Setting up HTML
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Musil's Recipes</title>
+</head>
+
+ (type ! and then tab to get that)
+
+<ul> - unorganized list (bullet points)
+<ol> - organized list (numbers)
+<li> - lists inside the list
+EX) 
+<ul>
+	<li>banana</li>
+	<li>cheese</li>
+</ul>
