@@ -25,3 +25,8 @@ img
     height: auto;
     width: 400px;
 }
+
+button {
+    background-color: grey;
+    color: hotpink;
+}
