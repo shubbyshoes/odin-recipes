@@ -28,3 +28,16 @@ EX)
 	<li>banana</li>
 	<li>cheese</li>
 </ul>
+
+
+Git commands
+ - git status - gives what is changed (in red) or what is added and ready to commit (in green)
+ - git commit -m "memo" - commits files (git commit . for all files) with a memo
+ - git push - uploads to github
+	- git push origin main - when dealing with different branches
+ - git log - log of whats happened
+ - git --version - provides version
+ - git config --global core.editor "code --wait"
+1. Create a new repository
+2. click code and then ssh to get address
+3. git clone "address copied" (no quotations)
